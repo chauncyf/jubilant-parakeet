@@ -6,6 +6,7 @@
         <option value="hw2.p2.librosa" />
         <option value="hw2.p2.df" />
         <option value="hw2.p2.pd" />
+        <option value="hw2.p4.model" />
       </list>
     </option>
   </inspection_tool>
