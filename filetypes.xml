@@ -6,8 +6,8 @@
       <mapping pattern="test_corpus_50" type="JSON" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
-      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
